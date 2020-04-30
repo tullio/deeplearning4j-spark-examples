@@ -14,7 +14,7 @@ scalaVersion := "2.12.11"
 // It's possible to define many kinds of settings, such as:
 
 name := "aws-dl4jtest"
-organization := "persol.co.jp"
+organization := "sofken.com"
 version := "1.0"
 
 // Note, it's not required for you to define these three settings. These are
